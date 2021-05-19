@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color:darkblue ;
+
+}
+main h1 {
+    color: orange
+
+}    
+footer {
+  background-color: green;
+    border: 2px solid black;
+}
